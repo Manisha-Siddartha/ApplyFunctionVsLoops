@@ -1,2 +1,2 @@
 # ApplyFunctionVsLoops
-Link for Documentation [a link] https://github.com/Manisha-Siddartha/ApplyFunctionVsLoops/blob/master/documentation.pdf
+Link for Documentation : https://github.com/Manisha-Siddartha/ApplyFunctionVsLoops/blob/master/documentation.pdf
